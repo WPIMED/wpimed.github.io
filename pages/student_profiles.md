@@ -1,3 +1,2 @@
 [Tom Hartvigsen](https://thartvigsen.github.io)
-![https://thartvigsen.github.io](../images/hartvigsen_headshot.png)
-*Tom Hartvigsen*
+![](../images/hartvigsen_headshot.png "Tom Hartvigsen")
