@@ -1,4 +1,6 @@
 ## The WPI Computational Healthcare Group
 
-List of pages
+Links
 * [Student Profiles](./pages/student_profiles.md)
+* [Projects](./pages/projects.md)
+* [Publications](./pages/publications.md)
