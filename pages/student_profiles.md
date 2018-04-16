@@ -1,3 +1,3 @@
-[Tom Hartvigsen](thartvigsen.github.io)
-    - Recurrent Neural Networks
-    - Reinforcement Learning
+[Tom Hartvigsen](https://thartvigsen.github.io)
+    * Recurrent Neural Networks
+    * Reinforcement Learning
